@@ -40,4 +40,4 @@ To exit from the application:
 
 A sample screenshot of the application is provided below as part of the user guide.
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/screenshot.png "Sample Screenshot")
+![alt text](https://github.com/yhpoh91/SyncSync/raw/master/screenshot.png "Sample Screenshot")
